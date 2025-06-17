@@ -1,6 +1,2 @@
-# ariaos
-Matteo Abate's Os based on linux
-
-still in devpeloment
-https://discord.com/invite/AeSAHmEuNZ
-https://sites.google.com/view/ariaos/home-page?authuser=2
+# Aria
+Aria is an independent project dedicated to creating elegant, lightweight, and user-tailored operating systems, with a focus on speed, design, and ease of use.
